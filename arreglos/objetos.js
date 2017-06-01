@@ -11,6 +11,8 @@ var day1 = {
 console.log(day1.squirrel);
 console.log(day1.wolf);
 day1.wolf = false;
+
 console.log(day1.wolf);
 console.log(day1.events.length);
+
 console.log(day1.events[1]);
