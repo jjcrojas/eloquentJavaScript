@@ -16,5 +16,6 @@ console.log(mack);
 //en este caso con |
 console.log(mack.join("|"));
 //pop quita un valor al final lo contrario de push
+
 console.log(mack.pop());
 console.log(mack);
