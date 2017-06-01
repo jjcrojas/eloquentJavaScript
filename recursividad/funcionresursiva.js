@@ -18,5 +18,4 @@ var power = function (base,valor){
     }
     return total;
 }
-
 console.log(power(2,4));
