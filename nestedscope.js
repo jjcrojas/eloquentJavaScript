@@ -1,6 +1,8 @@
 /**
  * Created by jcrojas on 25/04/2017.
  */
+
+/*Ambito (scope) de la variable result*/
 var landscape = function() {
     var result = "";
     var flat = function(size) {
