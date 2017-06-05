@@ -3,6 +3,8 @@
  */
 
 function hasEvent(event, entry) {
+    /*El operador != se recomienda si los datos tienen el mismo tipo. En caso de que
+    * puedan ser de distinto tipo es mejor !==*/
     return entry.events.indexOf(event) !== -1;
 }
 
